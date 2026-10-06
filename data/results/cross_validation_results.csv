@@ -1,0 +1,5 @@
+Model,CV_Mean_Accuracy,CV_Std_Accuracy,CV_Mean_F1_Macro,CV_Std_F1_Macro,CV_Mean_F1_Weighted
+Logistic Regression,0.912,0.0147,0.8994,0.0148,0.9118
+Support Vector Machine,0.9073,0.0127,0.8903,0.0147,0.907
+Random Forest,0.8556,0.0183,0.8063,0.0274,0.8511
+Decision Tree,0.7589,0.0258,0.7281,0.0273,0.7591
